@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TungTungTungSac-8d0P.aternos.me:37063",
+    "ip": "TungTungTungSac-8d0P.aternos.me",
     "port": 37063,
     "version": "1.21.11",
     "try-creative": false
